@@ -1,5 +1,6 @@
 # Talking-Clock
-Talking clock coding challenge
+Talking clock coding challenge.
+
 My name is:
 
 Oshadi Rathnayake

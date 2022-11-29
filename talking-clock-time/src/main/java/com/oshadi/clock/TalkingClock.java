@@ -1,0 +1,21 @@
+package com.oshadi.clock;
+
+public class TalkingClock {
+	private String value;
+	
+
+	public TalkingClock(String value) {
+		super();
+		this.value = value;
+	}
+
+	public String getValue() {
+		return value;
+	}
+
+	public void setValue(String value) {
+		this.value = value;
+	}
+	 
+	
+}
